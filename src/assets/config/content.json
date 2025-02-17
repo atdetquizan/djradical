@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "title": "DJ Radical",
+    "subtitle": "Chiclayo para el Mundo",
+    "description": "Fusionando ritmos electrónicos con la esencia de Chiclayo para el mundo entero",
+    "cta": {
+      "text": "Listen Now",
+      "link": "#featured"
+    }
+  },
+  "intro": {
+    "title": "DJ Radical",
+    "description": "DJ Radical es un artista innovador que fusiona ritmos electrónicos con beats contemporáneos, creando experiencias musicales únicas y envolventes. Especializado en mezclas dinámicas que combinan house, techno y música electrónica, cada set es una aventura sonora diseñada para mantener la pista de baile vibrando con energía pura."
+  },
+  "featured": {
+    "title": "Featured Mix",
+    "videoId": "9PHtvZsF0gI",
+    "videoTitle": "DJ Radical Mix"
+  },
+  "mixes": {
+    "title": "Latest Mixes",
+    "items": [
+      {
+        "title": "Mix Noviembre 2024 - Dj Radical 🔥 🎶 | Lo Más Sonado en Reggaetón, Electrónica , Moombahton y Hits",
+        "genres": ["Reggaetón", "Electrónica", "Moombahton", "Hits"],
+        "image": "./assets/img/IMG_5585.jpg",
+        "link": "https://www.youtube.com/watch?v=_bX0t5OMbTY&t=2152s"
+      },
+      {
+        "title": "Mix Open 2025 - Dj Radical (Reggaeton, Tech Old, Reparto , Timba)",
+        "genres": ["Reggaeton", "Tech Old", "Reparto", "Timba"],
+        "image": "./assets/img/IMG_4338.jpg",
+        "link": "https://www.youtube.com/watch?v=7UAMKBS-8F0"
+      },
+      {
+        "title": "DJ Mix Verano Febrero 2025 🎶 | Dj Radical (Reggaeton, Cumbia, Tech Old, Salsa)",
+        "genres": ["Reggaeton", "Cumbia", "Tech Old", "Salsa"],
+        "image": "./assets/img/IMG_1234.jpeg",
+        "link": "https://www.youtube.com/watch?v=yy_4z2qOqyU&t=881s"
+      }
+    ]
+  },
+  "about": {
+    "title": "About DJ Radical",
+    "image": {
+      "url": "https://picsum.photos/seed/djradical/600/800",
+      "alt": "DJ Radical"
+    },
+    "paragraphs": [
+      "Con más de una década de experiencia en la escena electrónica, DJ Radical ha perfeccionado el arte de la mezcla, creando experiencias sonoras únicas que fusionan diversos géneros musicales.",
+      "Su estilo distintivo combina ritmos house y techno con elementos de música contemporánea, creando sets dinámicos que mantienen a la audiencia en constante movimiento.",
+      "Reconocido por su habilidad para leer la energía de la pista y adaptarse al momento, cada presentación es una experiencia única e inolvidable."
+    ]
+  },
+  "contact": {
+    "title": "Connect with DJ Radical",
+    "social": [
+      {
+        "platform": "TikTok",
+        "link": "https://www.tiktok.com/@dj.radiical?lang=es"
+      },
+      {
+        "platform": "Facebook",
+        "link": "https://www.facebook.com/dj.radical.2025/"
+      },
+      {
+        "platform": "Instagram",
+        "link": "https://www.instagram.com/djradiical/"
+      },
+      {
+        "platform": "YouTube",
+        "link": "https://www.youtube.com/@dj.radical"
+      },
+      {
+        "platform": "Kick",
+        "link": "https://kick.com/djradical"
+      }
+    ],
+    "cta": {
+      "text": "¿Interesado en contrataciones o colaboraciones?",
+      "button": "Contáctanos",
+      "email": "info.djradical@gmail.com"
+    }
+  }
+}
